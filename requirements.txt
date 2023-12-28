@@ -1,0 +1,5 @@
+openai==v1.3.4
+python-dotenv
+langchain
+pydantic
+pyboxen
